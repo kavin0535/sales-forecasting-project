@@ -1,4 +1,6 @@
+flask
 pandas
 numpy
-flask
+scikit-learn
 joblib
+gunicorn
